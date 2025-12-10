@@ -1,4 +1,0 @@
-itertools 
-streamlit 
-numpy
-pandas
